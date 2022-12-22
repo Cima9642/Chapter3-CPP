@@ -1,4 +1,4 @@
-# a3main
+# Chapter 3 C++ COSC 1336
 This program will solve the quadratic equation for variable x 
 
 It addresses the following cases: 
